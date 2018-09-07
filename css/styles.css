@@ -1,0 +1,12 @@
+img {
+  width:500px;
+  height:250px;
+}
+.right {
+  float:right;
+}
+.images {
+  border: 4px solid yellow; 
+  padding: 3px;
+  margin: 2px;
+}
